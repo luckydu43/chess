@@ -1,24 +1,57 @@
 Ouverture Système de Londres
-   |          |             |                     |               |           |             |              |                |              |               |
-  \./        \./           \./                   \./             \./         \./           \./            \./              \./            \./             \./
-1.d4 ...e5 2.dxe5 ...d5  3.Nf3 avec pour plan 4.e3,          5.Bd3 et       6.o-o 4...Fg4,5.Fe2  4...Fb4,5.c3      4...e5,5.dxe5   
-                  ...f6  3.Nf3  ...Qe7        4.exf6 ...Qxf6 5.e4   ...Qf4  6.Bxf4
-1.d4 ...d5 2.Bf4  ...Nc6 3.e3 avec pour plan  4.Bd3,         5.Nf3 et       6.o-o 4...Fg4,5.Fe2  4...Fb4,5.c3      4...e5,5.dxe5
-                         3.Nf3  ...Nf6        4.e3  ...Bf5   5.Bd3  ...Bxd3 6.Qxd3 ...Nb4 7.Qb5+  ...Nc6 8.Qxb7   ...e6   9.Qxc6 ...Qd7 10.Qxa8
-                  ...Nf6 3.e3   ...e6         4.Nf3 ...Bb4   5.c3   ...Bd6  6.Bg3  ...o-o 7.Bd3  ...Bxg3 8.hxg3   ...Nc6  9.Nd2  ...e5  10.dxe5 ...Ng4  11.Bxh7+
-                  ...Bf5 3.e3   ...Nc6        4.Nf3 ...e5    5.Nxe5 ...Nb4  6.Na3  ...Nf6 7.c3   ...Nc6  8.Bb5    ...Bxa3 9.bxa3 ...o-o 10.Nxc6 ...bxc6 11.Bxc6 ...Rb8 12.o-o 
-1.d4 ...a5 2.e4   ...d5  3.exd5 ...Qxd5       4.Nc3 ...Qe6   5.Bf2  ...Nf6  6.Nf3  ...Qg4 7.o-o  ...Qg6  8.Ne5    ...Qg5  9.Bxg5
-
+   |           |             |                    |              |              |               |              |                |                |                |               |
+  \./         \./           \./                  \./            \./            \./             \./            \./              \./              \./              \./             \./
+1.d4 ...e5  2.dxe5 ...d5  3.Nf3 avec pour plan 4.e3,          5.Bd3 et       6.o-o   4...Fg4,5.Fe2  4...Fb4,5.c3      4...e5,5.dxe5   
+                   ...f6  3.Nf3  ...Qe7        4.exf6 ...Qxf6 5.e4   ...Qf4  6.Bxf4
+                   ...Bc5 3.Nf3  ...d5         4.e3   ...a6   5.Bc4  ...Nc6  6.o-o   ...Nxe5 7.Nxe5 ...Bf5  8.Nf7
+                                 ...d6         4.Bf4 avec pour plan e3 et la suite. e3 enferme le fou et est perdant ici
+     ...d5  2.Bf4  ...Nc6 3.e3 avec pour plan  4.Bd3,         5.Nf3 et       6.o-o   4...Fg4,5.Fe2  4...Fb4,5.c3      4...e5,5.dxe5
+                          3.Nf3  ...Nf6        4.e3   ...Bf5  5.Bd3  ...Bxd3 6.Qxd3  ...Nb4  7.Qb5+  ...Nc6 8.Qxb7   ...e6   9.Qxc6  ...Qd7  10.Qxa8
+                                                      ...Bg4  5.Bd3  ...Ne4  6.Nd2   ...f5   7.o-o  ...Nxd2 8.Qxd2   ...Bxf3 9.gxf3  ...e6   10.c4    ...g5   11.g3   ...f4   12.exf4
+                                 ...Bf5        4.e3   ...f6   5.Bd3  ...Bxd3 6.Qxd3  ...Nb4  7.Qb5+ ...Nc6  8.Qxb7   ...Rb8  9.Qxc6+ ...Qd7  10.Qxd7  ...Kxd7 11.b3   ...g5   12.Bg3
+                                                      ...e6   5.Bd3  ...Bg6  6.o-o   ...Nf6  7.Ne5  ...Nxe5 8.Bxe5   ...Ne4  9.f3    ...Ng5  10.h4    ...Nh3  11.Kh2  ...Qxh4 12.gxh3
+                   ...Nf6 3.e3   ...e6         4.Nf3  ...Bb4  5.c3   ...Bd6  6.Bg3   ...o-o  7.Bd3  ...Bxg3 8.hxg3   ...Nc6  9.Nd2   ...e5   10.dxe5  ...Ng4  11.Bxh7+
+                                 ...Ne4        4.Nf3  ...Nc6  5.Bd3  ...Nf6  6.o-o   ...e6   7.c3   ...Bd6  8.Ne5    ...Bxe5 9.Bxe5  ...Ng4  10.Qxg4  ...f5   11.Qxg7 ...Rf8  12.Qxh7
+                                 ...Nc6        4.Nf3  ...Nh5  5.Bg3  ...Nxg3 6.hxg3  ...Bf5  7.Bd3  ...Bxd3 8.Qxd3   ...Nb4  9.Qb5+  ...Qd7  10.Qxb4  ...e6   11.Qxb7 ...Rd8  12.Ne5
+                   ...Bf5 3.e3   ...Nc6        4.Nf3  ...e5   5.Nxe5 ...Nb4  6.Na3   ...Nf6  7.c3   ...Nc6  8.Bb5    ...Bxa3 9.bxa3  ...o-o  10.Nxc6  ...bxc6 11.Bxc6 ...Rb8  12.o-o
+				   ...f6  3.e3   ...h5         4.h4 Plans : simple Be2 pour Bxh5 OU plus long Bd3, c3 et Qc2 pour toucher la case g6 et lancer une attaque de mat
+     ...a5  2.e4   ...d5  3.exd5 ...Qxd5       4.Nc3  ...Qe6  5.Bf2  ...Nf6  6.Nf3   ...Qg4  7.o-o  ...Qg6  8.Ne5    ...Qg5  9.Bxg5
+     ...Nf6 2.Bf4  ...Nc6 3.Nf3  ...Nh5        4.Bg3  ...Nxg3 5.hxg3 ...g7   6.d5    ...Na5  7.Qd4  ...Rg8  8.Rxh7   ...c6   9.b4    ...Nb3  10.axb3  ...cxd5 11.Qxd5 ...Rg7  12.Rh8
+                   ...d5  3.e3   ...Nc6        4.Nf3  ...Ne4  5.Nbd2 ...Nxd2 6.Qxd2  ...e6   7.Bd3  ...Bd4  8.c3     ...Be7  9.o-o   ...o-o  10.Rfe1  ...e5   11.Nxe5 ...Nxe5 12.Bxe5
+     ...c6  2.Bf4  ...d5  3.Nf3  ...Nf6        4.e3   ...Bg4  5.Bd3  ...e6   6.o-o   ...Be7  7.Nbd2 ...o-o  8.c3     ...Bf5  9.Bxf5  ...exf5 10.Qc2   ...Ne4  11.Ne5  ...f6   12.Nd3
+                          3.e3   ...Bf5        4.Nf3  ...e6   5.Bd3  ...Bxd3 6.Qxd3  ...c5   7.Qb5+ ...Nc6  8.Qxb7   ...Rb8  9.Qxc6+ ...Qd7  10.Qxd7+ ...Kxd7 11.Bxb8 ...cxd4 12.exd4
+     ...d6  2.e4   ...g6  3.Nc3  ...Bg7        4.Be3  ...e6   5.Qd2  ...Ne7  6.o-o-o ...h5   7.Nf3  ...b6   8.Kb1    ...Bb7  9.Kg5   ...d5   10.e5    ...o-o  11.g4   ...h4   12.f4 pour Qxh4
+                                                                                                                                                                      ...hxg4 nous ouvre
 
 Défense scandinave
-         |            |              |             |              |              |                |              |               |                 |              |
-        \./          \./            \./           \./            \./            \./              \./            \./             \./               \./            \./
-1.e4 ...d5  2.Nc3 ...Nc6  3.Nf3  ...e6  4.Bf4  ...Bd6   5.Bg3 ...o-o
-                  ...dxe4 3.Nxe4 ...Bf5 4.Ng3  ...Bg6   5.Bd3 ...Bxd3 6.cxd3 ...Qxd3  7.Qb3   ...Qxb3 8.axb3 ...Nc6   9.d3   ...o-o-o 10.Ne4   ...Txd3 11.Ng5 ...Nh6
-            2.Nf3 ...dxe4 3.Ne5  ...Nf6 4.Nc4  ...Bf5   5.d3  ...e6   6.Nd2  ...Bc5   7.dxe4  ...Nxe4 8.Nxe4 ...Qxd1+ 9.Kxd1 ...Bxe4  10.b3    ...Nc6  11.Bb2 ...o-o-o+
-                                        4.Bc4  ...e6    5.Nc3 ...Bd6  6.Nxf7 ...Kxf7  7.d4    ...exd4 8.Qxd3 ...Re8   9.Bg5  ...Kg8   10.o-o-o ...Nc6  11.Re1 ...Bd7
-            2.d4  ...dxe4 3.Nc3  ...Nf6 4.Bf4  ...Bf5   5.f3  ...e6   6.Qe2  ...Bb4   7.o-o-o ...Bxc3
-                                        4.Bg5  ...Bf5   5.d5  ...e6   6.dxe6 ...Qxd1+ 7.Nxd1  ...fxe6 8.Bxf6 ...gxf6  9.Ne3  ...Nc6   10.o-o-o ...Bd6  11.Ne2 ...o-o-o
-1.d4 ...d5  2.e3  ...Nf6  3.Bf5  ...c6  4.Bd3  ...e6    5.Bd2 ...Bd6  6.Nf3  ...o-o
-            2.Nc3 ...Nf6  3.Bg5  ...e6  4.Bxf6 ...Qxf6  5.e4  ...dxe4 6.Nxe4 ...Qg6   7.Bd3   ...Qxg2
-            2.c4  ...dxc4 3.e4   ...b5  4.a3   ...Nf6   5.Nc3 ...a6   6.e5   ...Nd5   7.Nxd5  ...Qxd5 8.Nf3  ...e6    9.g3   ...Be7   10.Bg2   ...Qd7 
+         |             |              |              |               |               |               |              |               |                 |               |                   |
+        \./           \./            \./            \./             \./             \./             \./            \./             \./               \./             \./                 \./
+1.e4 ...d5  2.Nc3  ...Nc6  3.Nf3  ...e6   4.Bf4  ...Bd6   5.Bg3  ...o-o
+                   ...dxe4 3.Nxe4 ...Bf5  4.Ng3  ...Bg6   5.Bd3  ...Bxd3  6.cxd3 ...Qxd3 7.Qb3   ...Qxb3 8.axb3 ...Nc6   9.d3   ...o-o-o 10.Ne4   ...Txd3 11.Ng5  ...Nh6
+                                          4.Qf3  ...Bxe4  5.Qxe4 ...Nc6
+            2.Nf3  ...dxe4 3.Ne5  ...Nf6  4.Nc4  ...Bf5   5.d3   ...e6    6.Nd2  ...Bc5  7.dxe4  ...Nxe4 8.Nxe4 ...Qxd1+ 9.Kxd1 ...Bxe4  10.b3    ...Nc6  11.Bb2  ...o-o-o+
+                                          4.Bc4  ...e6    5.Nc3  ...Bd6   6.Nxf7 ...Kxf7 7.d4    ...exd4 8.Qxd3 ...Re8   9.Bg5  ...Kg8   10.o-o-o ...Nc6  11.Re1  ...Bd7
+            2.d4   ...dxe4 3.Nc3  ...Nf6  4.Bf4  ...Bf5   5.f3   ...e6    6.Qe2  ...Bb4  7.o-o-o ...Bxc3
+                                          4.Bg5  ...Bf5   5.d5   ...e6   6.dxe6 ...Qxd1+ 7.Nxd1  ...fxe6 8.Bxf6 ...gxf6  9.Ne3  ...Nc6   10.o-o-o ...Bd6  11.Ne2  ...o-o-o
+            2.exd5 ...Nf6  3.c4   ...c3   4.d6   ...exd6  5.d4   ...d5   6.Nc3  ...Bb4   7.a3    ...Bxc3 8.bxc3 ...o-o   9.Bf4  ...Re8   10.Ne2   ...Ne4  11.g3   ...Bg4     12.Bg2   ...Nxc3
+                           3.Nc3  ...Nxd5 4.Nxd5 ...Qxd5  5.d3   ...Nc6  6.Nf3  ...Bg4   7.o-o-o ...o-o  8.e5   ...c4    9.Qd7  ...h3    10.h5 pour hxg4, hxg4 et doubler sur la colonne h
+                                                          5.c4   ...Qe4+ 6.Fe2  ...Qxg2  7.Bf3   ...Qg6  8.d3   ...Nc6   9.Bf4  ...e5    10.Qe2   ...Bb4+ 11.Bd2  ...o-o     12.o-o-o ...Bf5
+                           3.d6   ...cxd6 4.Nf3  ...e5    5.Be2  ...Nc6  6.o-o  ...e4    7.Ng5   ...h6   8.Nxf7 ...Kxf7  9.Nc3  ...d5    10.d3    ...exd3 11.Qxd3 ...Be7     12.Bf4   ...Re8
+            2.e5   ...c5   3.d4   ...cxd4 4.Qxd4 ...Nc6   5.Bb5  ...Qa5+ 6.Nc3  ...e6    7.Bxc6  ...bxc6 8.Bd2  ...Qb6   9.Qxb6 ...axb6  10.Nf3   ...Ba6  11.h3   ...Ne7     12.o-o-o ...Bc5
+                           3.d3   ...Nc6  4.Nf3  ...Bg4   5.Bf4  ...e6   6.h3   ...Bxf3  7.Qxf3  ...Ng6  8.Na3  ...Ng6   9.Nb5  ...Qa5+  10.Nc3   ...d4
+            2.Qf3  ...dxe4 3.Qxe4 ...Nf6  4.Qa4+ ...Bd7   5.Bb5  ...e5   6.Nf3  ...e4    7.Ne5   ...Bd6  8.Nc4  ...o-o   9.o-o  ...Bxh2+ (il faut Bc1 enfermé ! sinon il revient en défense)
+                                                                                                                                         10.Kxh2  ...Ng4+ 11.Kg1  ...Qh4     12.f3    ...Qh2#
+                                                                                                                                         10.Kh1   ...c6   11.Bxc6 ...Nxc6    12.Kxh2(cf au-dessus)
+1.d4 ...d5  2.e3   ...Nf6  3.Bf4  ...c6   4.Bd3  ...e6    5.Bd2  ...Bd6  6.Nf3  ...o-o
+                           3.a3   ...Bf5  4.Bg5  ...e6    5.Bxf6 ...Qxf6 6.e3   ...Bd6   7.h3    ...o-o  8.Nf3  ...Nd7
+            2.Nc3  ...Nf6  3.Bg5  ...e6   4.Bxf6 ...Qxf6  5.e4   ...dxe4 6.Nxe4 ...Qg6   7.Bd3   ...Qxg2
+                           3.Bf4  ...Bf5  4.e6   ...Bd6   5.Nb5  ...Na6  6.f3   ...c6    7.Nc3   ...Qb6  8.a3   ...Qxb1  9.Na4  ...Qxc2  10.Qxc2  ...Bxc2 11.Nc3  ...Be7     12.Rc1   ...Bg6
+            2.c4   ...dxc4 3.e4   ...b5   4.a3   ...Nf6   5.Nc3  ...a6   6.e5   ...Nd5   7.Nxd5  ...Qxd5 8.Nf3  ...e6    9.g3   ...Be7   10.Bg2   ...Qd7
+                   ...e6   3.Nc3  ...Nf6  4.g3   ...Be7   5.Bg2  ...o-o  6.Bg5  ...c6    7.c5    ...b6   8.cxb6 ...axb6  9.a4   ...c5    10.e3    ...Nc6  11.Nge2 ...Ba6     12.o-o   ...h6
+            2.Bf4  ...Nf6  3.Nf3  ...Bf5  4.Nd2  ...e6    5.e3   ...Bd6  6.Bg3  ...o-o   7.Bd3   ...Bxd3 8.exd3 ...Nc6   9.Ne5  ...Bxe5
+                           3.e3   ...Bf5  4.Nf3  ...e6    5.c4   ...c6   6.Nc3  ...Bd6   7.Bg3   ...o-o  8.Bd3  ...Bg6   9.Bxg6 ...hxg6  10.Ne5   ...Nd7  11.h4   ...Qc7     12.f4    ...Nh5
+                                                                         6.c5   ...b6    7.Qa4   ...bxc5 8.dxc5 ...Bxc5  9.Ne5  ...o-o   10.Nxc6  ...Nxc6 11.Qxc6 ...Qa5+    12.Nd2   ...Bb4
+                                                                                                                         9.Bxb8 ...Rxb8  10.Qxc6+ ...Nd7
+                                                                                         7.b4    ...a5   8.a3   ...axb4  9.axb4 ...Rxa1
+                                                                                         7.cxb6  axb6
+																		 6.Qb3  ...Qb6
